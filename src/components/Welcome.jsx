@@ -3,7 +3,7 @@ import image from "../Assets/images/1.png";
 
 function Welcome() {
   const style = {
-    color: "black",
+    color: "white",
   };
   return (
     <div
