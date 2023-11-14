@@ -59,7 +59,7 @@ function Footer() {
           })}
         </div>
         <div>
-          <p className="text-white">Copyright 2021 JLegacy-AI</p>
+          <p className="text-white">Copyright 2023</p>
         </div>
       </div>
     </div>
